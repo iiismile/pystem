@@ -1,6 +1,6 @@
 # Pystem
 
-[Chinese 中文] (https://github.com/iiismile/pystem/blob/master/README.zh-cn.md)
+[Chinese 中文](https://github.com/iiismile/pystem/blob/master/README.zh-cn.md)
 
 This is a toolbox.
 
