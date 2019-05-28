@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #基于Python3构件
-
+#Copyright (C) 2019 Jiatong
+#版权所有 (C) 二〇一九 Jiatong
 #主程序（启动器）
 import hashlib
 import math
