@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+#基于Python3构件
+
 #主程序（启动器）
 import hashlib
 import math
